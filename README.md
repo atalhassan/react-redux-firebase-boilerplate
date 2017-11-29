@@ -1,6 +1,6 @@
 # React Boilerplate
 
-This a boilerplate for a react project that uses
+This is a boilerplate for any react project that uses
 
 - Redux
 - Firebase
